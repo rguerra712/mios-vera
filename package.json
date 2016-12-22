@@ -1,0 +1,15 @@
+{
+  "name": "mios-vera",
+  "version": "1.0.0",
+  "description": "Communicate with a vera-lite mios mi casa verde api to control home automation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R. Stephen Guerra",
+  "license": "Apach-2.0",
+  "dependencies": {
+    "local-device-finder": "^1.0.0",
+    "unirest": "^0.5.1"
+  }
+}
